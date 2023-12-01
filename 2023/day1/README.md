@@ -1,4 +1,4 @@
-# [AdventOfCode](https://adventofcode.com/2023)
+# [AdventOfCode](https://github.com/MatthieuSKRZYPCZAK/AdventOfCode)
 
 ## Day 1
 
